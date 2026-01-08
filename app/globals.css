@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+@layer base {
+  html {
+    @apply min-h-dvh overscroll-none overflow-x-clip;
+  }
+}
+
